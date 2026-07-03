@@ -23,7 +23,7 @@ This project implements an **8×8 Random Access Memory (RAM)** using Verilog HDL
 ## Tools Used
 
 * Verilog HDL
-* ModelSim / Vivado / Icarus Verilog
+* Vivado
 
 ## Internship
 
